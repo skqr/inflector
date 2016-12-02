@@ -1,5 +1,5 @@
 {
-    "name": "gointegro/inflector",
+    "name": "skqr/inflector",
     "description": "GOintegro Inflector Lib",
     "keywords": ["inflection", "singularize", "pluralize", "doctrine"],
     "homepage": "http://www.gointegro.com",
