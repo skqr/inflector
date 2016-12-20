@@ -12,7 +12,7 @@ addons:
     repo_token: 9505b5afb09b7156baa0d5bc068c2afc8466f47775a40e7f79ee67c3924e51e5
 
 before_script:
-  - composer install --dev
+  - composer install
 
 script: phpunit --coverage-clover build/logs/clover.xml
 
